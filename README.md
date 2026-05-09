@@ -48,7 +48,7 @@ The optimizer was designed to improve:
 * Generalization
 * Character prediction accuracy
 
-## Technologies Used
+## Technologies  Used
 * Python
 * TensorFlow / Keras
 * OpenCV
@@ -66,3 +66,4 @@ The model is evaluated using:
 * Exact Match Accuracy
 * Levenshtein Distance
 * OCR comparison against EasyOCR
+
